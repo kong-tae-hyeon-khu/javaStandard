@@ -1,0 +1,7 @@
+package ch2;
+
+public class PrintfEx1 {
+	byte b = 1;
+	short s = 2;
+	char c = 'A';
+}
