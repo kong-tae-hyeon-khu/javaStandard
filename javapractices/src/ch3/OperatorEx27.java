@@ -7,5 +7,8 @@ public class OperatorEx27 {
 		System.out.printf("b = %b%n", b);
 		System.out.printf("!b = %b%n", !b);
 		System.out.printf("!!b = %b%n", !!b); // 가까운 연산자가 먼저 처리된다. 
+	
 	}
-}
+} 
+
+
